@@ -9,7 +9,10 @@
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi-Moori)](https://github.com/anuraghazra/github-readme-stats)
+<h1>It's Me</h1>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Yeji&layout=compact)&nbsp;&nbsp;
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlanfl)](https://solved.ac/chlanfl/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-Moori)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Choi-Moori/Choi-Moori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
