@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Choi Moori |  👋
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Choi-Moori" width="1000" height="120"/>
+</a>
 <!--
 **Choi-Moori/Choi-Moori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
