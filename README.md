@@ -11,6 +11,14 @@
 
 <h1>Skills</h1>
 
+<p><b>Language</b></p>
+
+<p><b>FrameWork</b></p>
+
+<p><b>DBMS</b></p>
+
+<p><b>Studying</b></p>
+
 
 <h1>It's Me</h1>
 
