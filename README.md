@@ -1,4 +1,5 @@
-## Choi Moori |  👋
+## 🌱Choi Moori |  👋
+<p>안녕하세요 </p>
 
 <a href="https://github.com/devxb/gitanimals">
   <img
@@ -7,6 +8,8 @@
     height="120"
   />
 </a>
+
+<h1>Skills</h1>
 
 
 <h1>It's Me</h1>
