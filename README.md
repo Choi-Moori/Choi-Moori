@@ -1,5 +1,5 @@
 ## 🌱Choi Moori |  👋
-<p>안녕하세요 <br> <a href="https://moori-ch.tistory.com/"> 블로그 뉴비입니다. </a> </p>
+<p>안녕하세요 <br> <a href="https://moori-ch.tistory.com/"> 블로그입니다. </a> </p>
 
 
 <a href="https://github.com/devxb/gitanimals">
