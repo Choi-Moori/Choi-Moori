@@ -11,12 +11,13 @@
 </a>
 
 <h1>Skills</h1>
-<p><b>Language</b></p>
+**Language**<br>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
 
-<p><b>FrameWork</b></p>
+**FrameWork**<br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+
 <p><b>DBMS</b></p>
 
 <p><b>Studying</b></p>
