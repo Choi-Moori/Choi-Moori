@@ -1,5 +1,5 @@
 ## 🌱Choi Moori |  👋
-<p>안녕하세요 백엔드 개발자를 꿈꾸는 최무리입니다.<br> <a href="https://moori-ch.tistory.com/"> 블로그입니다. </a> </p>
+<p>안녕하세요 개발자를 꿈꾸는 최무리입니다.<br> <a href="https://moori-ch.tistory.com/"> 블로그입니다. </a> </p>
 
 
 <a href="https://github.com/devxb/gitanimals">
