@@ -4,6 +4,10 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요 개발자를 꿈꾸는 최무리입니다. </div> 
     </div>
     <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Project </h2> <br> 
+    | 프로젝트 | 내용         |
+    | -------- | ------------ |
+    | 예시 프로젝트 | 프로젝트에 대한 설명 |
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white">
           <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
