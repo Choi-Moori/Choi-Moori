@@ -1,6 +1,6 @@
 ![Hello! I'm Moori](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=Hello!%20I'm%20Moori&animation=fadeIn&fontColor=ffffff&fontSize=50)
 
-## 🌱 Choi Moori 👋
+## 🌱 Choi Moori👋 [My portfolio](https://www.canva.com/design/DAGWVrs-9aM/SK_wEkTiZAEBaHc1PlDD5Q/edit)
 안녕하세요, 개발자를 꿈꾸는 최무리입니다.
 
 ## 💻 Project
