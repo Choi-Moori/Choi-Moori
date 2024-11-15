@@ -1,6 +1,6 @@
 ![Hello! I'm Moori](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&text=Hello!%20I'm%20Moori&animation=fadeIn&fontColor=ffffff&fontSize=50)
 
-## 🌱 Choi Moori👋 [My portfolio](https://www.canva.com/design/DAGWVrs-9aM/SK_wEkTiZAEBaHc1PlDD5Q/edit)
+## 🌱 Choi Moori👋 [My portfolio](https://www.canva.com/design/DAGWjpUNZRg/KkJryr9v2tL8CkIqonLaCw/edit?utm_content=DAGWjpUNZRg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 안녕하세요, 개발자를 꿈꾸는 최무리입니다.<br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/moori_choi/)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://moori-ch.tistory.com)
