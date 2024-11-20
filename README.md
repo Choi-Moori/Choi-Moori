@@ -12,10 +12,10 @@
 
 | 프로젝트      | 설명               | 기간 | 깃허브 링크|
 | ------------- | ------------------ | ------- | --------|
-| Todak_<br>client | 우리 아이 토닥토닥. 소아청소년과 예약 서비스 토닥토닥의 클라이언트 입니다. | 2024.09.09 ~<br> 2024.11.06 | [todak_<br>client](https://github.com/Todak-Padak/TodakTodak_frontend) |
-| Todak_<br>server | 우리 아이 토닥토닥. 소아청소년과 예약 서비스 토닥토닥의 서버 입니다. | 2024.09.09 ~<br> 2024.11.06 | [todak_<br>server](https://github.com/Todak-Padak/TodakTodak_backend) |
-| Flint_<br>client | 호텔 예약 서비스 클라이언트 입니다. | 2024.07.19 ~<br> 2024.09.06 | [Flint_<br>client](https://github.com/Hong-Company/Flint_Hotel_FrontEnd) |
-| Flint_<br>server | 호텔 예약 서비스 서버 입니다. | 2024.07.19 ~<br> 2024.09.06 | [Flint_<br>server](https://github.com/Hong-Company/Flint_Hotel_Backend) |
+| Todak_<br>client | 소아청소년과 예약 서비스 토닥토닥의 프론트 | 2024.09.09 ~<br> 2024.11.06 | [todak_<br>client](https://github.com/Todak-Padak/TodakTodak_frontend) |
+| Todak_<br>server | 소아청소년과 예약 서비스 토닥토닥의 서버 | 2024.09.09 ~<br> 2024.11.06 | [todak_<br>server](https://github.com/Todak-Padak/TodakTodak_backend) |
+| Flint_<br>client | 호텔 예약 서비스 프론트 | 2024.07.19 ~<br> 2024.09.06 | [Flint_<br>client](https://github.com/Hong-Company/Flint_Hotel_FrontEnd) |
+| Flint_<br>server | 호텔 예약 서비스 서버 | 2024.07.19 ~<br> 2024.09.06 | [Flint_<br>server](https://github.com/Hong-Company/Flint_Hotel_Backend) |
 
 ## 🛠️ Tech Stacks
 
